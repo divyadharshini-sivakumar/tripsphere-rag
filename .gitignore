@@ -1,0 +1,43 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# ChromaDB
+chroma_db/
+*.db
+
+# Data (keep structure, ignore contents if large)
+data/*.pdf
+data/*.csv
+data/*.txt
+!data/.gitkeep
+
+# Reports (generated)
+reports/*.pdf
+!reports/.gitkeep
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model cache (optional, large)
+.cache/
