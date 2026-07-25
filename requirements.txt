@@ -1,0 +1,26 @@
+# Core & Framework
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.0.3
+
+# Vector DB & Embeddings
+chromadb>=0.5.0
+sentence-transformers>=2.7.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hybrid Search & Retrieval
+rank-bm25>=0.2.2
+
+# UI
+streamlit>=1.35.0
+
+# Document & Report Generation
+reportlab>=4.1.0
+
+# Data & Utilities
+pandas>=2.2.0
+numpy>=1.26.0
+python-dotenv>=1.0.1
+pydantic>=2.7.0
