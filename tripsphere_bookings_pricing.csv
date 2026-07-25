@@ -1,0 +1,13 @@
+booking_id,hotel_name,city,room_type,price_per_night_usd,availability,max_occupancy,amenities,season
+TS-1001,Sphere Grand Downtown,New York,Standard King,189,Available,2,"WiFi,Gym,Breakfast",Low
+TS-1002,Sphere Grand Downtown,New York,Deluxe Suite,349,Limited,3,"WiFi,Gym,Breakfast,Spa",Low
+TS-1003,Ocean Sphere Resort,Miami,Ocean View Queen,229,Available,2,"WiFi,Pool,Beach Access",High
+TS-1004,Ocean Sphere Resort,Miami,Family Villa,459,Available,6,"WiFi,Pool,Kitchen,Beach",High
+TS-1005,Mountain Sphere Lodge,Denver,Standard Twin,159,Available,2,"WiFi,Fireplace,Ski Storage",Low
+TS-1006,Mountain Sphere Lodge,Denver,Fireplace Suite,279,Limited,4,"WiFi,Fireplace,Hot Tub",Low
+TS-1007,Sphere Airport Hub,Chicago,Standard Queen,129,Available,2,"WiFi,Shuttle,Gym",Shoulder
+TS-1008,Sphere Airport Hub,Chicago,Business King,179,Available,2,"WiFi,Shuttle,Desk,Breakfast",Shoulder
+TS-1009,Desert Sphere Oasis,Phoenix,Casita,199,Available,3,"WiFi,Pool,Patio",High
+TS-1010,Desert Sphere Oasis,Phoenix,Premium Suite,329,Limited,4,"WiFi,Pool,Spa,Patio",High
+TS-1011,Sphere Grand Downtown,New York,Penthouse,799,Request,4,"WiFi,Gym,Spa,Butler",Low
+TS-1012,Ocean Sphere Resort,Miami,Standard King,189,Available,2,"WiFi,Pool",High
